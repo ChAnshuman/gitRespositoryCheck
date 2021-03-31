@@ -3,5 +3,6 @@ public inherited sharing class testCheckApexClass {
         Integer i=10;
         integer j=20;
         system.debug('Addition-->'+i+j);
+        system.debug('Addition-->'+i+j+'check');
     }
 }
